@@ -1,3 +1,8 @@
+-IMPORTANT-
+The Scipy library is neccesary for the script to function
+link to scipy:
+https://scipy.org/install/
+
 Cheat sheet for commands currently supported
 
 # _______________________________________________________________________________________________________________________________________
